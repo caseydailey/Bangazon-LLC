@@ -23,7 +23,7 @@ Note: If you do not have Python installed, click this [link](https://www.python.
   * [Issues](https://github.com/illegal-llamas/Bangazon-LLC/issues)
   
 ## Contributors
-  * Nick Nash (Team Lead)
+  * Nick Nash
   * Casey Dailey
   * Kayla Brewer
   * Jordan Nelson
